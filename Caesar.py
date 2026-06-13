@@ -47,10 +47,8 @@ def caesar(num, string):
             elif string[i] in eng_alpha or string[i] in eng_alpha_up:
                 num = num % 26
                 result += english_alpha_caesar(i, string, num)
-        if string[i].isspace():
-            result += string[i]
         else:
-            continue
+            result += string[i]
     return result
 
 print(caesar(sdvig, string))

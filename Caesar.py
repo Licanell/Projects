@@ -1,3 +1,4 @@
+#ввод сдвига
 eng_alpha = "abcdefghijklmnopqrstuvwxyz"
 eng_alpha_up = "ABCDEFGHIKLMNOPQRSTUVWXYZ"
 rus_alpha = "абвгдежзийклмнопрстуфхцчшщъыьэюя"
